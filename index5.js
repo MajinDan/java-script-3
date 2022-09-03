@@ -1,5 +1,5 @@
-//modify Array Data
-let myArray = [18, 64, 99];
+//access array data
+let myArray = [50,60,70];
 
-myArray[0] = 45;
-console.log(myArray);
+let myData = myArray[0];
+console.log(myData);

@@ -1,4 +1,3 @@
-//push()
-let myArray = [["john", 23],["cat", 2]];
-
-myArray.push(["dog, 3"]);
+//access Mulit-Dimensional Array
+let myData = myArray[2][1];
+console.log(myData);

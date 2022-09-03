@@ -1,6 +1,5 @@
-//unshift
-let myArray = [["john", 23],["dog, 3"]];
+//shift
+let myArray = [["john", 23],["cat, 2"]];
 
-myArray.shift();
-myArray.unshift(["paul",35]);
+let removedFromMyArray = myArray.shift();
 console.log(myArray);

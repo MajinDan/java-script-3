@@ -1,5 +1,2 @@
-//access array data
-let myArray = [50,60,70];
-
-let myData = myArray[0];
-console.log(myData);
+//nested arrayys
+let myArray = [["Bulls",23],["white Sox",45]]

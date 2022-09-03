@@ -1,3 +1,5 @@
-//access Mulit-Dimensional Array
-let myData = myArray[2][1];
-console.log(myData);
+//modify Array Data
+let myArray = [18, 64, 99];
+
+myArray[0] = 45;
+console.log(myArray);
